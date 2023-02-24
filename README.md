@@ -1,6 +1,16 @@
 # Tower-of-Hanoi-Forever
 A 3d cross platform python game of Tower of Hanoi
 
+
+Para Desktop o projeto completo já está disponível no arquivo:
+https://github.com/ten4z/Tower-of-Hanoi-Forever/blob/main/Tower_of_Hanoi_v1.1b.blend
+
+Já para a plataforma Web e Mobile o projeto está disponível no arquivo:
+https://github.com/ten4z/Tower-of-Hanoi-Forever/blob/main/hanoi_blend4web_1.0a.blend
+
+Para mobile este projeto está sendo feito também em paralelo com o framework Kivy
+Link aqui:
+
 On this game Tower of Hanoi Forever you can to move all the disks that are on the first pin to the third pin so that you can use your logical reasoning to solve the problem.
 It is a game invented by the French mathematician Édouard Lucas in 1883. 
 The objective of this game is to move all the disks that are initially arranged on the first pin, so that in the end all available disks are in the third pin. The minimum number of movements to solve this game is given by the equation: m = (2 ^ n) -1, where m is the minimum number of motions and n is the number of disks, to solve the game with 3 disks must be used At least 7 movements. 
