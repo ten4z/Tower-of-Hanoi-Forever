@@ -10,7 +10,8 @@ https://github.com/ten4z/Tower-of-Hanoi-Forever/blob/main/upbge-game/
 
 Na viewport 3d para a plataforma Web, Desktop e Mobile o projeto está disponível no arquivo:
 https://github.com/ten4z/Tower-of-Hanoi-Forever/blob/main/blend4web-game/
-link para degustação: http://josielsoares.com/games/torre-de-hanoi/
+
+link para degustação Web: http://josielsoares.com/games/torre-de-hanoi/
 
 Na viewport 2D Para Mobile e Desktop este projeto também está sendo desenvolvido em paralelo com o framework Kivy
 Link aqui: https://github.com/ten4z/Tower-of-Hanoi-Forever/tree/main/kivy-game
