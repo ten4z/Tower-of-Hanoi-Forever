@@ -1,7 +1,8 @@
 # Tower-of-Hanoi-Forever
 A 3d cross platform python game Tower of Hanoi - Jogo Torre de Hanói Sempre
 
-Tecnologias adotadas: linguagens javascript, html, css, webgl, python, sqlite, mysql, admob, android 
+Tecnologias adotadas: linguagens javascript, html, css, webgl, python, sqlite, mysql, admob
+
 frameworks e softwares utilizados: blender 3d, kivy, blen4web, cordova, node.js, krita
 
 Para Desktop o projeto 3d completo já está concluído e disponível no arquivo:
