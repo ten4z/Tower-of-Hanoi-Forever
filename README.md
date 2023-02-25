@@ -6,8 +6,8 @@ Tecnologias adotadas: linguagens javascript, html, css, webgl, python, sqlite, m
 frameworks e softwares utilizados: blender 3d, kivy, blen4web, cordova, node.js, krita
 
 Para Desktop o projeto 3d completo já está concluído e disponível no arquivo:
-plataformas alcançadas: Windows, MacOS, Linux
 https://github.com/ten4z/Tower-of-Hanoi-Forever/blob/main/upbge-game/
+plataformas alcançadas: Windows, MacOS, Linux
 
 Na viewport 3d para a plataforma Web, Desktop e Mobile o projeto está disponível no arquivo:
 https://github.com/ten4z/Tower-of-Hanoi-Forever/blob/main/blend4web-game/
