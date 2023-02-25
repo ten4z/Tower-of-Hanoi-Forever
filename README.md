@@ -6,10 +6,10 @@ frameworks e softwares utilizados: blender 3d, kivy, blen4web, cordova, node.js,
 
 Para Desktop o projeto 3d completo já está concluído e disponível no arquivo:
 plataformas alcançadas: Windows, MacOS, Linux
-https://github.com/ten4z/Tower-of-Hanoi-Forever/blob/main/Tower_of_Hanoi_v1.1b.blend
+https://github.com/ten4z/Tower-of-Hanoi-Forever/blob/main/upgbge-game/
 
 Na viewport 3d para a plataforma Web, Desktop e Mobile o projeto está disponível no arquivo:
-https://github.com/ten4z/Tower-of-Hanoi-Forever/blob/main/hanoi_blend4web_1.0a.blend
+https://github.com/ten4z/Tower-of-Hanoi-Forever/blob/main/blend4web-game/
 link para degustação: http://josielsoares.com/games/torre-de-hanoi/
 
 Na viewport 2D Para Mobile e Desktop este projeto também está sendo desenvolvido em paralelo com o framework Kivy
